@@ -10,7 +10,7 @@ Os requisitos para instalar são:
 
 No exemplo abaixo será utilizado o python 3.7:
 
-    git clone https://github.com/alexgarzao/caixa-eletronico-python.git
+    Download ou clone
     cd caixa-eletronico-python
     virtualenv -p python3.7 .env
     source .env/bin/activate
